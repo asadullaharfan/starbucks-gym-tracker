@@ -1,0 +1,44 @@
+food,category,calories_kcal,protein_g,carbs_g,fat_g,fibre_g
+"Chicken breast, cooked",Protein,165,31.0,0.0,3.6,0.0
+"Egg, whole, boiled",Protein,155,13.0,1.1,11.0,0.0
+"Egg white, cooked",Protein,52,11.0,0.7,0.2,0.0
+"Tuna, canned in water, drained",Protein,116,26.0,0.0,0.8,0.0
+"Fish, cooked",Protein,150,26.0,0.0,5.0,0.0
+"Beef, lean, cooked",Protein,217,26.0,0.0,12.0,0.0
+"Daal, cooked",Protein,116,9.0,20.0,0.4,7.9
+"Chickpeas, boiled",Protein,164,8.9,27.4,2.6,7.6
+"Kidney beans, boiled",Protein,127,8.7,22.8,0.5,6.4
+"Milk, whole",Dairy,61,3.2,4.8,3.3,0.0
+"Milk, low-fat",Dairy,42,3.4,5.0,1.0,0.0
+Plain yogurt,Dairy,61,3.5,4.7,3.3,0.0
+"Greek yogurt, plain",Dairy,97,9.0,3.9,5.0,0.0
+Cheddar cheese,Dairy,403,25.0,1.3,33.0,0.0
+"Oats, dry",Carbs,389,16.9,66.3,6.9,10.6
+"Rice, white, cooked",Carbs,130,2.7,28.2,0.3,0.4
+"Roti, whole wheat",Carbs,297,9.0,50.0,7.0,8.0
+Whole wheat bread,Carbs,247,13.0,41.0,4.2,7.0
+"Pasta, cooked",Carbs,157,5.8,30.9,0.9,1.8
+"Potato, boiled",Carbs,87,1.9,20.1,0.1,1.8
+Banana,Fruit,89,1.1,22.8,0.3,2.6
+Apple,Fruit,52,0.3,13.8,0.2,2.4
+Orange,Fruit,47,0.9,11.8,0.1,2.4
+Dates,Fruit,282,2.5,75.0,0.4,8.0
+Almonds,Nuts & seeds,579,21.2,21.6,49.9,12.5
+Peanuts,Nuts & seeds,567,25.8,16.1,49.2,8.5
+Peanut butter,Nuts & seeds,588,25.0,20.0,50.0,6.0
+Olive oil,Fats,884,0.0,0.0,100.0,0.0
+Avocado,Fats,160,2.0,8.5,14.7,6.7
+"Broccoli, cooked",Vegetables,35,2.4,7.2,0.4,3.3
+"Spinach, cooked",Vegetables,23,3.0,3.8,0.3,2.4
+Tomato,Vegetables,18,0.9,3.9,0.2,1.2
+Cucumber,Vegetables,15,0.7,3.6,0.1,0.5
+Mixed salad vegetables,Vegetables,25,1.2,5.0,0.2,2.0
+Chicken biryani,Pakistani meals,180,9.0,23.0,5.5,1.0
+Chicken karahi,Pakistani meals,190,18.0,5.0,11.0,1.0
+Aloo paratha,Pakistani meals,290,6.0,38.0,13.0,4.0
+"Samosa, vegetable",Pakistani meals,262,4.0,32.0,13.0,3.0
+"Chapati, plain",Pakistani meals,270,8.5,45.0,5.5,7.0
+Chana masala,Pakistani meals,150,7.0,22.0,4.0,6.0
+Vegetable pulao,Pakistani meals,160,3.0,29.0,4.0,2.0
+"Starbucks brewed coffee, black",Drinks,2,0.3,0.0,0.0,0.0
+"Orange juice, unsweetened",Drinks,45,0.7,10.4,0.2,0.2
